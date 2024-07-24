@@ -1,0 +1,40 @@
+.blog {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .blog h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
+  }
+  
+  .blog-posts {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .blog-post {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-post h2 {
+    color:red;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post .date {
+    color:white;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post p {
+    line-height: 1.6;
+    color: white;
+  }
+  

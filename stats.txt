@@ -1,0 +1,6 @@
+React for client side
+useState for save & update state of element 
+    useEffect for update data without reloding
+get data using from api provider using axios request
+use api for data of the movie provider
+we can see trailer of that perticulr show from this website
